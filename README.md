@@ -4,7 +4,7 @@ This is a small project that helps speed up the course registration process at E
 
 ## Instructions
 
-Add up to 6 courses IDs to the courses array in register.js
+1. Add up to 6 courses IDs to the courses array in register.js
 ```javascript
 // For 6 courses
 courses = [
@@ -25,7 +25,7 @@ courses = [
 	];
 ```
 
-Next, you will need to convert the entire register.js to a [bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/). This is done by adding `javascript: (() => {` at the top of the script and `})();` to the bottom of the script. Example of the final product:
+2. Convert the entire register.js to a [bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/). This is done by adding `javascript: (() => {` at the top of the script and `})();` to the bottom of the script. Example of the final product:
 ```javascript
 javascript: (() => {
 	courses = [
@@ -55,7 +55,7 @@ javascript: (() => {
 })();
 ```
 
-Lastly, [add the bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/) to your favorite browser.
+3. Lastly, [add the bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/) to your favorite browser.
 
 ## Testing + Day of Registration
 
