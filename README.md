@@ -1,6 +1,6 @@
 # etown-register
 
-This is a small project that helps speed up the registration process at Elizabethtown College. The script inputs the course IDs and clicks submit for you automatically.
+This is a small project that helps speed up the course registration process at Elizabethtown College. The script inputs the course IDs and clicks submit for you automatically.
 
 ## Instructions
 
